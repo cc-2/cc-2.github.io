@@ -1,10 +1,10 @@
 # Site settings
-title: COMPILADORES
-year: 2016
-slack_page: https://cc4-2016.slack.com
+title: CIENCIAS DE LA COMPUTACION 2
+year: 2018
+slack_page: https://cc2-2018.slack.com
 footerlogo: logo-footer.png
 descripcion: >
- Pagina del curso CC4 - Compiladores de Universidad Galileo
+ Pagina del curso CC2 - Universidad Galileo
 baseurl: ""
 url: "localhost:4000"
 
